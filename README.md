@@ -13,7 +13,7 @@ Para la ejecución del programa debemos de tener instalado el ambiente de trabaj
 Descargamos el repositorio, y descomprimimos el archivo.zip.\
 Para el correcto uso de la Base de Datos debemos cambiar los credenciales en el archivo con la ruta **../userlogin1/config/database.yml**.
 
-Luego abrimos una terminal donde dentro de la carpeta, con la ruta **../userlogin1**\
+Luego abrimos una terminal dentro de la carpeta, con la ruta **../userlogin1**\
 Y levantamos el servidor con el siguiente comando.
 
 > rails s
