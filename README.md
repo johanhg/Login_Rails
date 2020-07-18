@@ -16,7 +16,7 @@ Para el correcto uso de la Base de Datos debemos cambiar los credenciales en el 
 Luego abrimos una terminal donde dentro de la carpeta, con la ruta <../userlogin1>
 Y levantamos el servidor con el siguiente comando.\
 
-{% rails s %}
+> rails s
 
 Vemos que se levantó el servidor con éxito en el http://localhost:3000/
 
