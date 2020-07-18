@@ -11,7 +11,7 @@ En **Log in** muestra el espacio de **email** y **contraseña** para hacer la au
 
 Para la ejecución del programa debemos de tener instalado el ambiente de trabajo de Ruby on Rails y de mysql.\
 Descargamos el repositorio, y descomprimimos el archivo.zip.\
-Para el correcto uso de la Base de Datos debemos cambiar los credenciales en el archivo con la ruta **../userlogin1/config/database.yml>**.\
+Para el correcto uso de la Base de Datos debemos cambiar los credenciales en el archivo con la ruta **../userlogin1/config/database.yml**.\
 
 Luego abrimos una terminal donde dentro de la carpeta, con la ruta **../userlogin1**\
 Y levantamos el servidor con el siguiente comando.
