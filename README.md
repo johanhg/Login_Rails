@@ -1,7 +1,7 @@
 # User Login - Rails
 
 ### Resumen
-La aplicación fue desarrollada en Ruby on Rails, conectado a una base de datos mysql
+La aplicación fue desarrollada en Ruby on Rails, conectado a una base de datos mysql.
 
 Se muestra en la página principal dos opciones, **Sign in** o **Log in**.\
 En **Sign in** muestra un formulario para registrarse en la aplicación.\
@@ -20,5 +20,5 @@ Y levantamos el servidor con el siguiente comando.
 
 Vemos que se levantó el servidor con éxito en el http://localhost:3000/
 
-Y finalmente ingresamos a esa dirección para el uso de la aplicacion.
+Y finalmente ingresamos a esa dirección para el uso de la aplicación.
 
