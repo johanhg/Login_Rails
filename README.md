@@ -4,8 +4,8 @@
 La aplicación fue desarrollada en Ruby on Rails, conectado a una base de datos mysql
 
 Se muestra en la página principal dos opciones, **Sign in** o **Log in**.
-  En **Sign in** muestra un formulario para registrarse en la aplicación.
-  En **Log in** muestra el espacio de **email** y **contraseña** para hacer la autenticación.
+> En **Sign in** muestra un formulario para registrarse en la aplicación.
+> En **Log in** muestra el espacio de **email** y **contraseña** para hacer la autenticación.
   
 ### Ejecución del programa
 
