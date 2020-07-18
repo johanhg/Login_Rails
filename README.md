@@ -1,4 +1,4 @@
-# Login_Rails
+# User Login - Rails
 
 ### Resumen
 La aplicación fue desarrollada en Ruby on Rails, conectado a una base de datos mysql
